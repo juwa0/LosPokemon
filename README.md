@@ -2,6 +2,7 @@
 
 This is a Discord bot that allows users to look up detailed information about Pokémon using the [PokéAPI](https://pokeapi.co/). Users can get information such as a Pokémon's type, height, weight, abilities, base experience, and more by typing commands directly into a Discord channel.
 
+Original Replit Folder: replit.com/@juwa0/LosPokemon
 ## Features
 
 - Look up Pokémon by name.
