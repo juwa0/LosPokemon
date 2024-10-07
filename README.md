@@ -91,7 +91,7 @@ Some Moves: Thunder Shock, Quick Attack, Iron Tail, Electro Ball, Growl
 Note: This Pokémon is my favorite!
 ```
 
-![Pikachu Image](https://raw.githubusercontent.com/username/repo/branch/images/pikachu.png)
+As well as an image of the regular and shiny sprites of the Pokemon**
 
 ## Dependencies
 
